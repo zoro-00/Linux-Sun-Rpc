@@ -1,0 +1,13 @@
+# Executables
+server
+client
+
+# Object files
+*.o
+
+# Server runtime directory
+server_files/
+
+# macOS / IDE
+.DS_Store
+.vscode/
